@@ -19,7 +19,8 @@ mongo-api : it is an app built with Node js (shop app) .
  
  
 > PS: this app is not stable and it's only for  preview
-> PS: this code is an improved version of code from link  [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/)
+
+> PS: this code is an improved version of code from [Academind by Maximilian Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/)
  
 ## Installation and Run
 
