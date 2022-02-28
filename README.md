@@ -8,6 +8,7 @@ mongo-api : it is an app built with Node js (shop app) .
 - login
 - sign up
 - log out
+- reset password 
 - add product
 - remove product
 - edit product
